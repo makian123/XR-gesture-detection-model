@@ -1,2 +1,3 @@
 test_dataset.pt
 train_dataset.pt
+*.pyc
